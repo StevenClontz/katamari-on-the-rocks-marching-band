@@ -15,3 +15,9 @@ copies better than I.
 
 The arrangement's Finale source files and a burned MP3 of the resulting
 MIDI have been stored in this repo for posterity.
+
+## Contact
+
+<http://clontz.org>
+
+<steven.clontz@gmail.com>
